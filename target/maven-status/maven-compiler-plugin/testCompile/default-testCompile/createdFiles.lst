@@ -1,0 +1,3 @@
+cl\kibernumacademy\inicio\RunCucumberTest.class
+cl\kibernumacademy\inicio\AppTest.class
+cl\kibernumacademy\inicio\steps\LoginSteps.class
